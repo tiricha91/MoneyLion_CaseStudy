@@ -42,16 +42,19 @@ This companies domain is distinctly lending, but beyond that, they offer many pe
 
 The most major trend and innovation in this domain has been the speed at which the bank can provide the loan. In their marketing, they say they can provide a loan within 15 seconds. This innovation was so impactful that it has carved out its own sector known as Peer 2 Peer lending. 
 
-* What are the other major companies in this domain?
+
 there are other major competitors in this domain, though they may not have the same robust suite of personal banking products. Earnin is a competitor that provides instananeous loans and certain financial products related to healthcare. Another major competitor is PayActiv. They offer a wide variety of services including interfacing with ADP, pharmaceutical discounts, and rideshare apps.
 
 ## Results
 
-* What has been the business impact of this company so far?The company has had a pretty substantial business impact. MoneyLion's business model innately brings in other companies. As an example, MoneyLion has promotions within their app that advertises credit opportunities for customers. The poromotions are taylored for each consumer through machine learning. 
+
+The company has had a pretty substantial business impact. MoneyLion's business model innately brings in other companies. As an example, MoneyLion has promotions within their app that advertises credit opportunities for customers. The poromotions are taylored for each consumer through machine learning. 
 
 The main metric for a company like MoneyLion is monthly app donwloads. According to Crunchbase.com, MoneyLion is at 145,909 downloads a month. According to craft.com, they have 5 million users when it was last measured in the summer of 2019. the company is valued at around $1 billion. 
 
-Comparing MoneyLion to one of it's main competitors like Chime shows that MoneyLion could do some more growing. Chimes market valuation is $5.8 billion and they have nearly the same customer base of 5 million users measured in the summer of 2019. Other Competitors like Earnin and Payactive are not as popular despite having started a year prior. though there aren't solid metrics to compare them on that level, craft.com makes a comparison between their social media followers and Moneylion sits second to Chime if we compare the four. 
+Comparing MoneyLion to one of it's main competitors like Chime shows that MoneyLion could do some more growing. Chimes market valuation is $5.8 billion and they have nearly the same customer base of 5 million users measured in the summer of 2019. Other Competitors like Earnin and Payactive are not as popular despite having started a year prior. though there aren't solid metrics to compare them on that level, craft.com makes a comparison between their social media followers and Moneylion sits second to Chime if we compare the four. Below is an image comparing the companies across various categories.
+
+![comparions_image](images/competition.PNG)
 
 
 ## Recommendations
